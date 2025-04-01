@@ -3,7 +3,7 @@
 ## Directory Structure
 
 - `src_forecasting/`: Contains the Jupyter notebooks for the forecasting workflow, including:
-  - EDA (Exploratory Data Analysis)
+  - EDA
   - Feature Engineering
   - Modeling
   - Evaluation
@@ -45,7 +45,7 @@ This will:
 
 ### 3. Populate the Database
 
-To populate the database with the required SQL dump, use the following target:
+To populate the database with the required SQL dump:
 
 ```bash
 make populate-db
@@ -69,7 +69,7 @@ make run-db-queries
 
 ### Install Dependencies
 
-To install all project dependencies, run:
+To install all project dependencies:
 
 ```bash
 make install
