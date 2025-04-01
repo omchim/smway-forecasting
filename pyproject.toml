@@ -1,0 +1,37 @@
+[tool.poetry]
+name = "smway-forecasting"
+version = "0.1.0"
+description = "Forecasting and SQL Interview Test"
+readme = "README.md"
+authors =  [
+    "Omar Chimère NDIAYE <omchimere@gmail.com>"
+]
+
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "^2.0.0"
+numpy = "^1.24.0"
+matplotlib = "^3.7.0"
+seaborn = "^0.12.0"
+statsmodels = "^0.14.0"
+pmdarima = "^2.0.0"
+prophet = "^1.1.0"
+tsfresh = "^0.20.0"
+scikit-learn = "^1.2.0"
+xgboost = "^1.7.0"
+tensorflow = "^2.12.0"
+darts = "^0.25.0"
+lightgbm = { version = "*", allow-prereleases = true }
+psycopg2 = "^2.9.10"
+pymannkendall = "^1.4.3"
+geopandas = "^1.0.1"
+
+[tool.poetry.group.dev.dependencies]
+pylint = "^2.17.3"
+mypy = "^1.2.0"
+black = "^23.3.0"
+gcsfs = "^2023.4.0"
+commitizen = "^3.1.0"
+pre-commit = "^3.6.0"
+autoflake = "^2.2.1"
