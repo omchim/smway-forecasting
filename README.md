@@ -1,5 +1,3 @@
-Here's the complete `README.md` code from the beginning to the `help` section:
-
 # Forecast emission
 
 This project contains a forecasting model using CO2 emissions data, with SQL database interactions and various utility scripts for setup, testing, and formatting.
