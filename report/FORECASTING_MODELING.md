@@ -132,7 +132,7 @@ The forecasted emissions for 2021, and 2022 were:
 - **Growth rate from 2021 to 2022**:  3.2%
 
 
-## 7. Next Steps**
+## 7. Next Steps
 To enhance model performance and explore new opportunities, the following steps are recommended:<br/>
 -  **Data Expansion**: Adding external data such as GDP or livable area could further refine predictions.<br/>
 -  **Model Exploration**: Experiment with additional models to compare with LightGBM.<br/>
