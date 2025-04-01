@@ -139,5 +139,5 @@ To enhance model performance and explore new opportunities, the following steps 
 -  **Detrending Alternatives**: Explore other detrending techniques.<br/>
 -  **Hyperparameter Tuning**: Further tune hyperparameters to improve model accuracy.<br/>
 
-## 8. Conclusion**
+## 8. Conclusion
 By focusing on post-1950 data and applying feature engineering techniques, we successfully predicted emissions for 2021 and 2022 with reasonable accuracy, with a 3.2% growth rate from 2021 to 2022. However, there is still room for improvement, and incorporating additional data sources and refining the model could enhance predictions in future iterations.
