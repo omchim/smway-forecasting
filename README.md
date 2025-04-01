@@ -12,7 +12,7 @@
 - `src_sql_test/`: Contains script for running and displaying SQL queries and their results.
 
 - `report/`: Contains reports, including:
-  - SQL queries with results
+  - SQL queries
   - Presentation of the forecasting model and evaluation
 
 - `data/`: Contains the dataset used for modeling.
